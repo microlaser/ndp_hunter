@@ -29,5 +29,5 @@ Because basic NDP lacks authentication, an attacker on the same local network (l
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/ipv6-ndp-hunter.git](https://github.com/yourusername/ipv6-ndp-hunter.git)
+   git clone [https://github.com/microlaser/ipv6-ndp-hunter.git](https://github.com/microlaser/ipv6-ndp-hunter.git)
    cd ipv6-ndp-hunter
